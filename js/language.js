@@ -63,7 +63,7 @@ let lang = {
         homespan3: "تجربة",
 
         abouth2: "حول ميرا سبور",
-        aboutp: "اسمي ميرا سبور. هل تريد الحصول على جسم رائع؟ انضم إلي. اسمي ميرا صوفيا، وُلدت في 29 مايو 1997 في المدينة الجميلة ميامي، فلوريدا. أنا مؤثرة في مجال اللياقة البدنية وكانت بدايتي مختلفة عن غيري. كنت دائما أعاني من النحافة في سنوات المراهقة. لجأت إلى ممارسة التمارين الرياضية لكسر هذه الشكوك التي كنت أعاني منها طوال فترة المراهقة. كانت تؤمن أنها قادرة، لذلك فعلت!",
+        aboutp: "ساعدت كتير  من النساء على بناء الثقة أثناء بناء جسم أحلامهم عانيت من اضطراب الأكل لسنوات عديدة، ورياضة الفيتنس هي اللي  أنقذت حياتي عندي  شغف كبير للمساعدة في تمكين المرأة من الداخل والخارج. وهون بعض المشتركين اللي عندي قبل وبعد",
         aboutbutton: "اعرف المزيد",
 
 
@@ -183,7 +183,7 @@ let lang = {
         homespan3:"Experience",
 
         abouth2:"About MiraSpor",
-        aboutp:"My Name Is Mira Sporr Do You Want To Have A Great Body Join Me My Name Is Mira Sofia , Born On May 29th, 1997 In The Beautiful Miami, Florida. I Am A Fitness Influencer Who’s Had A Different Start To My Journey Compared To Others. I Had Always Struggled With Being Under-Weight In My Teenage Years. I Sought Out To Fitness To Break Me Out Of This Insecurity That I Struggled With, All Throughout My Adolescence. She Believed She Could. So She Did!",
+        aboutp:"Helping thousands of women build confidence whilst building their dream body, I struggled with an eating disorder for many years, and fitness is what truly saved my life. I have such a passion for helping empower women inside and out. Here are a few of my clients",
         aboutbutton:"Know more",
         
         coursesh2:"Our Courses",
