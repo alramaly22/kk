@@ -3620,3 +3620,13 @@ body.dark-theme main {
 .buttonchoose:hover{
   border: none;
 }
+@media screen and (min-width:768px) {
+  
+  .bannero{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url("../images/Untitled\ design\ \(8\).png");
+    background-size: cover;
+    background-position: center;
+  }
+}
