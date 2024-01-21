@@ -94,7 +94,7 @@ let lang = {
         coursesh23: "فقدان الوزن",
         coursesp3: "تمارين مخصصة، إرشادات تغذية، ودعم المجتمع لفقدان الوزن المستدام. حقق أهداف اللياقة الخاصة بك اليوم",
         
-        transformation: "تحولات عملاؤنا",
+        tran: "تحولات عملاؤنا",
 
         contactcontactme: "تواصل معي",
         conatctwrite: "اكتب لي أسئلتك",
@@ -115,6 +115,58 @@ let lang = {
         footera3: "آراء عملائنا",
         footera4: "تواصل معنا",
         footercontact: "تواصل معنا",
+
+        cource:"دوراتنا",
+        courcebooty:"تحدي الأرداف",
+        courcebootyp:"تم تصميم تحدي الأرداف خصيصًا للنساء، ملهمًا مشاركتهن الفعّالة. يتضمن تنوعًا من التمارين لتشكيل وتقوية الأرداف، بالإضافة إلى خطة غذائية مخصصة ومفاجأة تُكشف خلال البرنامج",
+        courceabs:"تنحيف البطن",
+        courceabsp:"هذه الدورة لفقدان الوزن، مصممة للنساء لتشجيع مشاركتهن. تتضمن تمارين متنوعة لفقدان الوزن وتحسين اللياقة البدنية، وخطة غذائية مخصصة ومفاجأة تُكشف خلال البرنامج",
+        courceweight:"تخسيس الوزن",
+        courceweightp:"تركز الدورة على تخسيس الوزن من خلال تمارين متنوعة، تعزيز قوة العضلات، وتعزيز تقليل الوزن الكلي للجسم. تتضمن خطة غذائية مخصصة ومكمل غذائي يُكشف عنه خلال البرنامج",
+        courcegaining1:"زيادة الوزن في النادي الرياضي",
+        courcegainingp1:"يركز البرنامج على فقدان الوزن وبناء الكتلة العضلية النسائية من خلال تمارين متنوعة تستهدف مختلف أجزاء الجسم لتعزيز القوة وزيادة كتلة العضلات. يتضمن خطة غذائية مخصصة ومكمل يتم اكتشافه خلال الدوره",
+        courcegaining2:"زيادة الوزن في المنزل",
+        courcegainingp2:"يركز البرنامج على فقدان الوزن وبناء الكتلة العضلية النسائية من خلال تمارين متنوعة تستهدف مختلف أجزاء الجسم لتعزيز القوة وزيادة كتلة العضلات. يتضمن خطة غذائية مخصصة ومكمل يتم اكتشافه خلال الدوره",
+        courcelosing1:"فقدان الدهون وبناء الكتلة العضلية في النادي الرياضي",
+        courcelosingp1:"يتركز هذا البرنامج على فقدان الوزن وبناء العضلات من خلال تمارين متنوعة تعزز قوة العضلات وتعزز فقدان الوزن الكلي للجسم. يتضمن خطة غذائية مخصصة ومكمل يتم اكتشافه خلال الدورة",
+        courcelosing2:"فقدان الدهون وبناء الكتلة العضلية في المنزل",
+        courcelosingp2:"يتركز هذا البرنامج على فقدان الوزن وبناء العضلات من خلال تمارين متنوعة تعزز قوة العضلات وتعزز فقدان الوزن الكلي للجسم. يتضمن خطة غذائية مخصصة ومكمل يتم اكتشافه خلال الدورة",
+    
+        choosepackage: "اختر حزمتك",
+        choosepackagenoraml: "حزمة عادية",
+        choosepackagevip: "حزمة VIP",
+
+        trans1: "مساعدة الآلاف من النساء",
+        trans2: "على بناء الثقة بأنفسهن",
+        trans3: "أثناء بناء أجسامهن الحلم",
+        
+        videoh2: "التدريب عبر الإنترنت",
+
+        proh1: "سأكون هناك للدعم،",
+        proh11: "التحفيز وتشجيعك",
+        proh111: "طوال رحلتك بأكملها",
+        proh1111: "رحلتك",
+        proh31: "خطة الوجبات",
+        prop1: "ستتلقى خطة تغذية مخصصة تتضمن السعرات المحسوبة لمساعدتك في تحقيق أهدافك. ستتضمن خطتك الغذائية جميع الأطعمة التي تحبّها - لا داعي لتناول الطعام الممل لتحقيق أهدافك!",
+        proh32: "خطة التمارين",
+        prop2: "ستتلقى خطة تمرين مخصصة تتناسب مع أهدافك وخبرتك والمعدات وتكوين الجسم",
+        proh33: "متابعة",
+        prop3: "سأكون هناك لدعم رحلتك في كل خطوة على الطريق! يمكنك إرسال القياسات والصور والتحديثات أسبوعياً حتى أتمكن من إجراء التعديلات الصحيحة بما يتناسب معك ومع أهدافك",
+        proh34: "دعم على مدار الساعة",
+        prop4: "تحصل على دعم على مدار الساعة مني حتى لا تشعر أبدًا بأنك تمر برحلتك بمفردك. يمكنك التحدث إليّ بشكل منتظم مباشرة من خلال تطبيقي السهل الاستخدام",
+        
+        abouth1: "أفتخر بما أقوم به حيث",
+        abouth11: "تمكنت من التغلب على اضطراب",
+        abouth111: "تناول الطعام والعودة",
+        abouth1111: "بقوة أكبر مما كنت عليه من قبل",
+        aboutppp: "هناك الكثير للاكتساب خلال رحلتك. لن تغير فقط جسديًا، ولكنك ستبدأ في بناء حب النفس الحقيقي الذي يمكنك حمله معك طوال حياتك، بغض النظر عن مرحلة الحياة التي تمر بها.",
+        
+        aboutpp: "تشمل مؤهلاتي شهادة التدريب الشخصي مستوى 3 وتدريب الآلاف من النساء في جميع أنحاء العالم لسنوات عديدة. لدي شغف بمساعدة النساء في تحقيق أهدافهن اللياقية وتغيير حياتهن من الداخل والخارج.",
+        visit1: "أفضل مشروع",
+        visit11: " ستعمل عليه",
+        visit111: " هو أنت ! ",
+        visitbutton: "ابدأ الآن",
+        
     },
     en: {
         navhome:"Home",
@@ -197,7 +249,7 @@ let lang = {
 
 
 
-        transformation:"Transformation",
+        tran:"Transformation",
 
         pricingh1:"Our Pricing",
         pricingh2:"Booty Challenge",
@@ -236,7 +288,63 @@ let lang = {
         footera3:"Testimonials",
         footera4:"Contact",
         footercontact:"Contact Us",
-        }
+
+
+
+        cource:"Our Cources",
+        courcebooty:"Booty Challenge",
+        courcebootyp:"The Booty Challenge is tailored for women, inspiring their active involvement. Featuring diverse exercises for shaping and strengthening the glutes, along with a specialized diet plan and a surprise revealed throughout the program",
+        courceabs:"Abs Tiny Waist",
+        courceabsp:"This weight loss course, designed for women, encourages their participation. It incorporates diverse exercises for weight loss and fitness, a tailored diet plan, and a surprise revealed during the program",
+        courceweight:"Weight Loss",
+        courceweightp:"The course focuses on weight loss through diverse exercises, enhancing muscle strength, and promoting overall body weight reduction. It includes a specialized diet and a supplement revealed during the program",
+        courcegaining1:"Gaining weight in the gym",
+        courcegainingp1:"The program focuses on weight loss and building feminine muscle mass through diverse exercises targeting various body parts to enhance strength and muscle mass. It includes a specialized diet plan and a supplement referred to as",
+        courcegaining2:"Gain weight at home",
+        courcegainingp2:"The program focuses on weight loss and building feminine muscle mass through diverse exercises targeting various body parts to enhance strength and muscle mass. It includes a specialized diet plan and a supplement referred to as",
+        courcelosing1:"Losing fat and building muscle mass in the gym",
+        courcelosingp1:"This program focuses on weight loss and muscle building through diverse exercises that enhance muscle strength and promote overall body weight loss. It includes a specialized diet and a supplement to be discovered during the course.",    
+        courcelosing2:" Losing fat and building muscle mass at home",
+        courcelosingp2:"This program focuses on weight loss and muscle building through diverse exercises that enhance muscle strength and promote overall body weight loss. It includes a specialized diet and a supplement to be discovered during the course.",
+    
+    
+    
+        choosepackage:"Choose Your Package",
+        choosepackagenoraml:"NORMAL PACKAGE",
+        choosepackagevip:"VIP PACKAGE",
+
+        trans1:"Helping thousands of women", 
+        trans2:"build confidence whilst",
+        trans3:"building their dream body",
+        
+        videoh2:"Online Coaching",
+
+        proh1:"I will be there to support,",
+        proh11:"motivate and encourage you",
+        proh111:" throughout your entire ",
+        proh1111:" journey",
+        proh31:"Meal plan",
+        prop1:"You will receive a bespoke nutrition plan that includes calculated macros to help you achieve your goals. Your meal plan will include all the foods you love- you don’t need to eat boring foods to reach your goals!",
+        proh32:"Workout plan",
+        prop2:"You will receive a bespoke workout plan suitable to your goals, experience, equipment, and body composition",
+        proh33:"Tracker",
+        prop3:"I will be there to support your journey every step of the way! You can submit measurements, pictures, and updates weekly so I can make the right adjustments for you and your goals",
+        proh34:"24/7 Support",
+        prop4:"You get 24/7 support from me so that you will never feel like you are going through your journey alone. You can speak to me on a regular basis directly through my easy-to-use app",
+    
+        abouth1:"I take pride in what I do as I",
+        abouth11:" managed to overcome an ",
+        abouth111:" eating disorder and come ",
+        abouth1111:" back stronger than before",
+        aboutppp:"There is so much to gain throughout your journey. You will not only change physically, but you will start building genuine self-love that you can take with you throughout your life, no matter what stage of life you are in",
+        aboutpp:"My qualifications include level 3 personal training certification and training thousands of women all over the world for many years. I have a passion for helping women reach their fitness goals and change their lives inside and out.",
+   
+        visit1:"The best project ",
+        visit11:" you will ever ",
+        visit111:" work on, is YOU!",
+        visitbutton:"Get Start",
+
+    }
 };
 
 let selector = document.getElementById('language-selector');
