@@ -2946,6 +2946,75 @@ line-height: 1.3em;
   margin-right: 1.5rem;
 }
 
+/* =========================pop================ */
+.pop__container{
+  padding: 1rem 0 5rem;
+}
+.pop__card{
+  text-align: center;
+  width: 290px;
+  background-color: var(--container-color);
+  padding: .5rem .5rem 1.5rem;
+  border-radius: 1rem;
+  margin: 0 auto;
+  transition: .4s;
+
+}
+.pop__img{
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+}
+.pop__data{
+  text-align: left;
+  padding: 0 1rem .7rem .5rem;
+}
+.pop__pricing{
+  font-size: var(--h2-font-size);
+  color: var(--nav_link);
+  margin-bottom: .25rem;
+}
+.pop__pricing span{
+  color: var(--my-color);
+}
+.pop__title{
+  font-size: var(--h3-font-size);
+  margin-bottom: .75rem;
+}
+.pop__description{
+color: var(--nav_link);
+  font-size: var(--small-font-size);
+}
+.pop__card:hover{
+box-shadow: 0 12px 16px hsla(228,66%, 45%,.1);
+}
+.pop .swiper-button-prev::after,
+.pop .swiper-button-next::after{
+  content: '';
+}
+.pop .swiper-button-next,
+.pop .swiper-button-prev{
+  top: initial;
+  bottom: 0;
+  width: initial;
+  height: initial;
+  background-color: var(--container-color);
+  border: 2px solid var(--text-color);
+  padding: 6px;
+  border-radius: .5rem;
+  font-size: 1.5rem;
+  color: var(--first-color);
+}
+.pop .swiper-button-prev{
+  left: calc(50% - 3rem);
+}
+.pop .swiper-button-next{
+  right: calc(50% - 3rem);
+}
+.pop .swiper-button-next i,
+.pop .swiper-button-prev i{
+  color: var(--my-color);
+}
+
 @media screen and (max-width:320px) {
   .home2__info {
     flex-direction: column;
@@ -2980,6 +3049,10 @@ line-height: 1.3em;
   .pricing__content2 {
     padding: 2rem 1.25rem;
     border-radius: 1rem;
+  }
+  .pop__card{
+    width: 230px;
+    padding: .5rem .5rem .75rem;
   }
 }
 
@@ -3202,6 +3275,16 @@ line-height: 1.3em;
     font-size: 100px;
   font-family: "Lobster", sans-serif;
   /* line-height: 1.3em; */
+}
+.pop__container{
+  padding-top: 3rem;
+}
+.pop__card{
+  width: 320px;
+  padding: .75rem .75rem 2rem;
+}
+.pop__card{
+  padding: 0 .25rem 0 .75rem;
 }
 }
 
