@@ -247,8 +247,24 @@ let swiperTestimonial = new Swiper('.testimonial__container', {
     },
   },
 });
+// pop
+const swiperpop = new Swiper('.pop__container', {
+spaceBetween:32,
+grabCursor:true,
+centeredSlides:true,
+slidesPerView:'auto',
+loop:true,
 
+  navigation: {
+    nextEl: '.swiper-button-next',
+    prevEl: '.swiper-button-prev',
+  },
 
+  // And if we need scrollbar
+  scrollbar: {
+    el: '.swiper-scrollbar',
+  },
+});
 
 
 
